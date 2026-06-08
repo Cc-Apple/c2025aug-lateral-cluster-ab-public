@@ -1,0 +1,49 @@
+{
+  "package_name": "C2025AUG Lateral Cluster + A/B-Cohort Public Evidence Pack",
+  "created_utc": "2026-06-08T17:40:06Z",
+  "target": "C2025AUG / 2025-08-04",
+  "window": "2025-08-01..2025-08-10",
+  "final_verdict": "C2025AUG_LATERAL_CLUSTER_AB_COHORT_MODEL_SUPPORTED_NOT_CAUSAL_OR_ATTRIBUTION_PROOF",
+  "final_verdict_jp": "横展開クラスタ + A/B/Trial説明変数モデルはlocal artifact上で支持。ただし因果・帰属・server-side証明ではない。",
+  "a_class_count": 9,
+  "device_rows": 13,
+  "class_counts": {
+    "A_FINAL_ORIGIN_CORE_MULTI_LAYER_SUPPORTED": 1,
+    "A_MINUS_FINAL_BRIDGE_SUPPORTED_BACKUP_WEAK": 1,
+    "A_FINAL_MULTI_LAYER_SUPPORTED": 5,
+    "A_MINUS_FINAL_RAW_ONLY_EXTERNAL_CRITICAL_REVIEW": 1,
+    "A_MINUS_FINAL_REMOTE_GEO_SEPARATED_REVIEW": 1,
+    "B_FINAL_MULTI_LAYER_SUPPORTED_WITH_WEAK_EDGE": 1,
+    "C_FINAL_CONTEXT_SUPPORTED_REVIEW": 1,
+    "E_CONTROL_OR_EXCLUDED_NO_FINAL_CLUSTER_DECISION": 2
+  },
+  "can_say": [
+    "C2025AUG / 2025-08-04 は、40bで複数端末のcore/support clusterとして残った。",
+    "42/42bで Trial / A-B / cohort overlap は説明変数として残り、direct triald系も複数端末で確認された。",
+    "43で cloud_trust / policy_restriction / lateral_trust / backup_manifest の trust lineage shadow が複数端末で重なった。",
+    "44で backup / Manifest / RTCR / Snapshot 系の inheritance shadow が一部端末で重なった。",
+    "45で物理接触説明が残る端末と、cloud/trust側説明が必要になる端末を分離できた。",
+    "46で evidence pressure / preservation difficulty 系が複数端末で重なった。",
+    "47で利用可能なcontrol/low-exposure候補は同密度を再現せず、generic iOS noise説明は弱体化した。"
+  ],
+  "cannot_say": [
+    "Trial悪用確定ではない",
+    "A/B攻撃確定ではない",
+    "Apple Trial原因確定ではない",
+    "Apple server-side trust graph の直接証明ではない",
+    "Family Sharing悪用確定ではない",
+    "trusted device追加確定ではない",
+    "backup汚染確定ではない",
+    "restore継承確定ではない",
+    "Manifest.db改ざん確定ではない",
+    "証拠保存妨害の意図確定ではない",
+    "Remote command確定ではない",
+    "hidden MDM確定ではない",
+    "Apple関与確定ではない",
+    "国家関与確定ではない",
+    "攻撃者特定ではない"
+  ],
+  "raw_logs_included": false,
+  "personal_labels_redacted": true,
+  "hash_register_included": true
+}

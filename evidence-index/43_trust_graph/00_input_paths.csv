@@ -1,0 +1,6 @@
+﻿name,path,exists,size_bytes
+39b_file_axis_counts,[RESULT_ROOT]\39b_rawlog_cluster_trial_audit\39b_file_axis_counts.csv,True,20630718
+40b_core_cross,[RESULT_ROOT]\40b_c2025aug_39a39b_cross_strict\04_2025_0804_core_cross.csv,True,3250
+42b_direct_timeline,[RESULT_ROOT]\42b_triald_direct_only_source_time_review\01_triald_direct_0804_timeline.csv,True,3996
+42b_device_summary,[RESULT_ROOT]\42b_triald_direct_only_source_time_review\03_device_triald_direct_summary_0804.csv,True,3335
+42b_core_matrix,[RESULT_ROOT]\42b_triald_direct_only_source_time_review\04_triald_vs_40b_core_matrix.csv,True,2150

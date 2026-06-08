@@ -1,0 +1,41 @@
+{
+  "script": "47_normal_control_stress_test_review",
+  "status": "DONE",
+  "variant": "NO_PANDAS_STD_LIB_ONLY",
+  "target": "C2025AUG_2025-08-04",
+  "result_root": "[RESULT_ROOT]",
+  "output_dir": "[RESULT_ROOT]\\47_normal_control_stress_test_review",
+  "final_verdict": "NORMAL_CONTROL_STRESS_REDUCES_GENERIC_IOS_EXPLANATION_CONTROL_SET_LIMITED",
+  "final_verdict_note": "Cluster devices show multi-layer overlap while available control/low-exposure candidates do not reproduce the same density. Control set remains limited.",
+  "device_rows": 13,
+  "control_candidate_rows": 2,
+  "hypothesis_rows": 7,
+  "layer_rank_rows": 13,
+  "cluster_pattern_present_or_supported_count": 11,
+  "control_pass_count": 2,
+  "control_fail_count": 0,
+  "generic_excluded_count": 1,
+  "elapsed_seconds": 0.004,
+  "inputs": {
+    "40b_core": {
+      "path": "[RESULT_ROOT]\\40b_c2025aug_39a39b_cross_strict\\04_2025_0804_core_cross.csv",
+      "exists": true
+    },
+    "43_trust": {
+      "path": "[RESULT_ROOT]\\43_trust_graph_lineage_review\\01_trust_graph_0804_device_matrix.csv",
+      "exists": true
+    },
+    "44_backup": {
+      "path": "[RESULT_ROOT]\\44_backup_manifest_inheritance_review\\01_backup_manifest_0804_device_matrix.csv",
+      "exists": true
+    },
+    "45_proximity": {
+      "path": "[RESULT_ROOT]\\45_proximity_vs_cloud_separation_review\\01_proximity_cloud_0804_device_matrix.csv",
+      "exists": true
+    },
+    "46_evidence": {
+      "path": "[RESULT_ROOT]\\46_evidence_preservation_suppression_review\\01_evidence_suppression_0804_device_matrix.csv",
+      "exists": true
+    }
+  }
+}

@@ -1,0 +1,9 @@
+﻿device,inventory_rows,date_count,first_date,last_date,manifest_db_count,large_manifest_db_count_ge_50mb,manifest_plist_count,status_plist_count,info_plist_count,snapshot_count,checksum_count,backup_workspace_count,total_size_bytes_inventory,duplicate_small_file_hash_count_hint,note
+USER_ORIGIN_MINI1,32186,15,2026-01-01,2026-03-03,40,26,25,40,41,0,21,314,38482929839,49,inventory_only_not_0804_causality
+USER_BRIDGE_15G,33795,10,2025-12-20,2026-04-01,14,14,14,29,26,19800,14,13509,63383389903,253,inventory_only_not_0804_causality
+USER_DEVICE_12G,198,9,2025-12-30,2026-02-01,24,24,24,34,34,0,24,31,2943932980,41,inventory_only_not_0804_causality
+USER_DEVICE_MINI2,168,9,2025-12-19,2026-01-12,12,12,12,16,16,1,13,70,1458979748,18,inventory_only_not_0804_causality
+USER_DEVICE_11PRO,144,5,2025-12-24,2026-01-28,18,18,19,22,23,0,19,19,4041497391,14,inventory_only_not_0804_causality
+EXT_CONTACT_E_12PROMAX,8,1,2026-01-29,2026-01-29,1,1,1,2,2,0,1,1,391276819,2,inventory_only_not_0804_causality
+CONTROL_OR_GENERIC_EXTERNAL,183,6,2025-12-19,2026-01-21,16,4,16,22,22,0,16,16,2310552075,28,inventory_only_not_0804_causality
+LOW_EXPOSURE_IPAD,321,7,2025-12-14,2026-01-23,26,26,26,35,35,0,25,32,5988780651,42,inventory_only_not_0804_causality

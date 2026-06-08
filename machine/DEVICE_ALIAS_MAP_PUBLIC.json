@@ -1,0 +1,67 @@
+[
+  {
+    "public_alias": "USER_ORIGIN_MINI1",
+    "role_note": "User-side origin/core device in C2025AUG model.",
+    "private_original_label": "redacted"
+  },
+  {
+    "public_alias": "USER_BRIDGE_15G",
+    "role_note": "User-side bridge device toward later Joker/Shadow Cloud lines; backup-manifest layer weaker in 44.",
+    "private_original_label": "redacted"
+  },
+  {
+    "public_alias": "USER_DEVICE_12G",
+    "role_note": "User-side support device, multi-layer supported.",
+    "private_original_label": "redacted"
+  },
+  {
+    "public_alias": "USER_DEVICE_MINI2",
+    "role_note": "User-side support device, multi-layer supported.",
+    "private_original_label": "redacted"
+  },
+  {
+    "public_alias": "USER_DEVICE_11PRO",
+    "role_note": "User-side support device, multi-layer supported.",
+    "private_original_label": "redacted"
+  },
+  {
+    "public_alias": "EXT_NO_CONTACT_A",
+    "role_note": "External no-direct-contact raw-only critical review device; RTCReporting-dominant, not standalone proof.",
+    "private_original_label": "redacted"
+  },
+  {
+    "public_alias": "EXT_UNCERTAIN_B",
+    "role_note": "External uncertain-contact review device.",
+    "private_original_label": "redacted"
+  },
+  {
+    "public_alias": "EXT_REMOTE_GEO_C",
+    "role_note": "External geo-separated review device.",
+    "private_original_label": "redacted"
+  },
+  {
+    "public_alias": "EXT_CONTACT_D",
+    "role_note": "External known-contact device; physical/proximity explanation remains partly possible.",
+    "private_original_label": "redacted"
+  },
+  {
+    "public_alias": "EXT_CONTACT_E_12PROMAX",
+    "role_note": "External known-contact device; multi-layer supported with weak edge.",
+    "private_original_label": "redacted"
+  },
+  {
+    "public_alias": "EXT_CONTACT_E_6SPLUS",
+    "role_note": "External known-contact device; context-supported review.",
+    "private_original_label": "redacted"
+  },
+  {
+    "public_alias": "CONTROL_OR_GENERIC_EXTERNAL",
+    "role_note": "Generic/control-like external label; excluded from final cluster decision.",
+    "private_original_label": "redacted"
+  },
+  {
+    "public_alias": "LOW_EXPOSURE_IPAD",
+    "role_note": "Low-exposure/control-like iPad label; excluded from final cluster decision.",
+    "private_original_label": "redacted"
+  }
+]

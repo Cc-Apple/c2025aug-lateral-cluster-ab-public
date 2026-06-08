@@ -1,0 +1,69 @@
+{
+  "status": "DONE",
+  "variant": "NO_PANDAS_STD_LIB_ONLY",
+  "target_window": "2025-08-01..2025-08-10",
+  "core_date": "2025-08-04",
+  "final_verdict": "PROXIMITY_CLOUD_SEPARATION_SUPPORTED_NOT_SERVER_SIDE_PROOF",
+  "device_rows": 13,
+  "proximity_source_top_rows": 87,
+  "contact_rows": 13,
+  "overlap_rows": 13,
+  "sequence_rows": 13,
+  "verdict_counts": {
+    "A_CLOUD_TRUST_SEPARATION_STRONG_NO_DIRECT_CONTACT": 1,
+    "A_CLOUD_TRUST_SEPARATION_STRONG_REMOTE_GEO": 1,
+    "B_CLOUD_TRUST_SEPARATION_REVIEW_UNCERTAIN_CONTACT": 1,
+    "C_PROXIMITY_POSSIBLE_BUT_TRUST_BACKUP_OVERLAP": 3,
+    "C_USER_DEVICE_LOCAL_OR_TRUST_CONTEXT": 5,
+    "E_NO_PROXIMITY_CLOUD_DECISION": 2
+  },
+  "high_cloud_separation_devices": [
+    "EXT_NO_CONTACT_A",
+    "EXT_REMOTE_GEO_C"
+  ],
+  "cloud_review_devices": [
+    "EXT_UNCERTAIN_B"
+  ],
+  "physical_or_local_possible_devices": [
+    "EXT_CONTACT_D",
+    "EXT_CONTACT_E_12PROMAX",
+    "EXT_CONTACT_E_6SPLUS",
+    "USER_ORIGIN_MINI1",
+    "USER_DEVICE_12G",
+    "USER_DEVICE_11PRO",
+    "USER_BRIDGE_15G",
+    "USER_DEVICE_MINI2"
+  ],
+  "important_boundary": [
+    "physical proximity explanation is separated, not disproven globally",
+    "cloud/trust graph is inferred from local artifact overlap, not server-side proof",
+    "no attribution / no hidden MDM / no Apple involvement claim"
+  ],
+  "input_paths": [
+    {
+      "name": "in39b",
+      "path": "[RESULT_ROOT]\\39b_rawlog_cluster_trial_audit",
+      "exists": "True"
+    },
+    {
+      "name": "in40b",
+      "path": "[RESULT_ROOT]\\40b_c2025aug_39a39b_cross_strict",
+      "exists": "True"
+    },
+    {
+      "name": "in43",
+      "path": "[RESULT_ROOT]\\43_trust_graph_lineage_review",
+      "exists": "True"
+    },
+    {
+      "name": "in44",
+      "path": "[RESULT_ROOT]\\44_backup_manifest_inheritance_review",
+      "exists": "True"
+    },
+    {
+      "name": "out",
+      "path": "[RESULT_ROOT]\\45_proximity_vs_cloud_separation_review",
+      "exists": "CREATED"
+    }
+  ]
+}

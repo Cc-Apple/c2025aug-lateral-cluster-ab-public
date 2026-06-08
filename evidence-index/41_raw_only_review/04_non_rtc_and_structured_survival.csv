@@ -1,0 +1,10 @@
+﻿device,date,axis,all_hits,no_rtc_hits,structured_hits,no_rtc_axis_present,structured_axis_present
+EXT_NO_CONTACT_A,2025-08-04,trial_ab,77,77,32,1,1
+EXT_NO_CONTACT_A,2025-08-04,cloud_trust,5446,859,857,1,1
+EXT_NO_CONTACT_A,2025-08-04,policy_restriction,12,12,12,1,1
+EXT_NO_CONTACT_A,2025-08-04,backup_manifest,6779,33,32,1,1
+EXT_NO_CONTACT_A,2025-08-04,telecom_wifi_proximity,2884,316,235,1,1
+EXT_NO_CONTACT_A,2025-08-04,daemon_seam,297,75,53,1,1
+EXT_NO_CONTACT_A,2025-08-04,evidence_pressure,5845,177,96,1,1
+EXT_NO_CONTACT_A,2025-08-04,lateral_trust,12692,48,26,1,1
+EXT_NO_CONTACT_A,2025-08-04,shadow_cloud_terms,48,48,1,1,1

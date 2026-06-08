@@ -1,0 +1,5 @@
+﻿name,path,exists
+39a_dir,[RESULT_ROOT]\39a_csv_result_cluster_trial_audit,True
+39b_dir,[RESULT_ROOT]\39b_rawlog_cluster_trial_audit,True
+40b_dir,[RESULT_ROOT]\40b_c2025aug_39a39b_cross_strict,True
+out_dir,[RESULT_ROOT]\42_trial_ab_cohort_source_review,True
