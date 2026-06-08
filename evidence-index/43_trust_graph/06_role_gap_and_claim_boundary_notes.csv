@@ -1,0 +1,14 @@
+﻿device,role,trust_lineage_verdict,note,claim_boundary
+EXT_NO_CONTACT_A,EXTERNAL_CRITICAL_NO_DIRECT_CONTACT,B_TRUST_LINEAGE_RAW_ONLY_STRONG_NO_TRIALD_DIRECT,raw-only critical support; no direct triald on 0804; 41 showed RTC-heavy but no-RTC/structured axes still present,do not promote to causal proof
+USER_ORIGIN_MINI1,ORIGIN_CORE,A_TRUST_LINEAGE_STRONG_WITH_TRIALD_DIRECT,origin core; trust axes and triald direct overlap; main C2025AUG anchor,still not Apple-server-side trust graph proof
+USER_DEVICE_12G,USER_CLUSTER_SUPPORT,A_TRUST_LINEAGE_STRONG_WITH_TRIALD_DIRECT,core/support device with trust-axis overlap,normal iOS/control stress still required
+EXT_CONTACT_E_12PROMAX,EXTERNAL_CONTACT_KNOWN,B_TRUST_LINEAGE_STRONG_NO_TRIALD_DIRECT,external known-contact support; triald direct missing/weak on 0804; keep as follower/BC seam support,avoid treating as origin
+USER_DEVICE_11PRO,USER_CLUSTER_SUPPORT,A_TRUST_LINEAGE_STRONG_WITH_TRIALD_DIRECT,core/support device with trust-axis overlap,normal iOS/control stress still required
+EXT_UNCERTAIN_B,EXTERNAL_CRITICAL_UNCERTAIN_CONTACT,A_TRUST_LINEAGE_STRONG_WITH_TRIALD_DIRECT,core/support device with trust-axis overlap,normal iOS/control stress still required
+EXT_CONTACT_D,EXTERNAL_CONTACT_KNOWN,A_TRUST_LINEAGE_STRONG_WITH_TRIALD_DIRECT,core/support device with trust-axis overlap,normal iOS/control stress still required
+USER_DEVICE_MINI2,USER_CLUSTER_SUPPORT,A_TRUST_LINEAGE_STRONG_WITH_TRIALD_DIRECT,core/support device with trust-axis overlap,normal iOS/control stress still required
+EXT_REMOTE_GEO_C,EXTERNAL_GEO_SEPARATED,A_TRUST_LINEAGE_STRONG_WITH_TRIALD_DIRECT,"remote geo contact; direct triald only cpu-resource class in 42b; useful for separation, not origin",needs proximity/cloud separation review
+USER_BRIDGE_15G,BRIDGE_TO_LATER_JOKER,A_TRUST_LINEAGE_STRONG_WITH_TRIALD_DIRECT,bridge to later Joker; early direct triald; bridge candidate,"bridge is structural, not command proof"
+EXT_CONTACT_E_6SPLUS,EXTERNAL_CONTACT_KNOWN,B_TRUST_LINEAGE_STRONG_NO_TRIALD_DIRECT,external known-contact support; triald direct missing/weak on 0804; keep as follower/BC seam support,avoid treating as origin
+CONTROL_OR_GENERIC_EXTERNAL,GENERIC_EXTERNAL_LABEL_WEAK,E_NO_TRUST_LINEAGE_DECISION,core/support device with trust-axis overlap,normal iOS/control stress still required
+LOW_EXPOSURE_IPAD,USER_CLUSTER_SUPPORT,E_NO_TRUST_LINEAGE_DECISION,core/support device with trust-axis overlap,normal iOS/control stress still required

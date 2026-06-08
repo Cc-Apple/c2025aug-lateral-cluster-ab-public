@@ -1,0 +1,7 @@
+﻿note_type,content
+CAN_SAY,C2025AUG core日に、evidence pressure と trust/backup/proximity overlapを端末別に整理できる。
+CAN_SAY,jetsam / diskwrites / logd-deleted / reset-watchdog / cpu_resource などの保存困難化に関係する周辺artifactを抽出する。
+CAN_SAY,EXT_NO_CONTACT_Aはraw-onlyだが、evidence pressureでも強く残る場合はreview対象として維持する。
+CANNOT_SAY,証拠保存妨害の意図、攻撃者、Apple関与、hidden MDM、Remote commandはこのscriptでは断定しない。
+CANNOT_SAY,sysdiagnose/stacksはセルフデバッグ付随の可能性があるため、単独主証拠にしない。
+NEXT,47 Normal / Control Stress Testへ進み、普通のiOSでも同じ密度で出るかを潰す。

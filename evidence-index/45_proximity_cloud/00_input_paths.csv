@@ -1,0 +1,6 @@
+﻿name,path,exists
+in39b,C:\Users\Administrator\Desktop\Result\39b_rawlog_cluster_trial_audit,True
+in40b,C:\Users\Administrator\Desktop\Result\40b_c2025aug_39a39b_cross_strict,True
+in43,C:\Users\Administrator\Desktop\Result\43_trust_graph_lineage_review,True
+in44,C:\Users\Administrator\Desktop\Result\44_backup_manifest_inheritance_review,True
+out,C:\Users\Administrator\Desktop\Result\45_proximity_vs_cloud_separation_review,CREATED

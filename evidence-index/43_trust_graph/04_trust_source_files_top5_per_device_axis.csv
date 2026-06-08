@@ -1,0 +1,294 @@
+﻿device,date,axis,rank,hit_count,relative_path,source_root_label
+USER_BRIDGE_15G,2025-08-04,backup_manifest,1,7,USER_BRIDGE_15G/2025/08/4/Analytics-2025-08-04-070022.ips.ca.synced,my_device_logs
+USER_BRIDGE_15G,2025-08-04,backup_manifest,2,4,USER_BRIDGE_15G/2025/08/4/JetsamEvent-2025-08-04-015220.ips,my_device_logs
+USER_BRIDGE_15G,2025-08-04,backup_manifest,3,2,USER_BRIDGE_15G/2025/08/4/ChatGPT-2025-08-04-190135.ips,my_device_logs
+USER_BRIDGE_15G,2025-08-04,backup_manifest,4,1,退避フォルダ/USER_BRIDGE_15G/bin&session/log-power-2025-08-04-155617.session,my_device_logs
+USER_BRIDGE_15G,2025-08-04,backup_manifest,5,1,USER_BRIDGE_15G/2025/08/4/log-power-2025-08-04-155617.session,my_device_logs
+USER_BRIDGE_15G,2025-08-04,cloud_trust,1,199,USER_BRIDGE_15G/2025/08/4/JetsamEvent-2025-08-04-015220.ips,my_device_logs
+USER_BRIDGE_15G,2025-08-04,cloud_trust,2,18,USER_BRIDGE_15G/2025/08/4/Analytics-2025-08-04-070022.ips.ca.synced,my_device_logs
+USER_BRIDGE_15G,2025-08-04,cloud_trust,3,2,USER_BRIDGE_15G/2025/08/4/ChatGPT-2025-08-04-190135.ips,my_device_logs
+USER_BRIDGE_15G,2025-08-04,cloud_trust,4,1,退避フォルダ/USER_BRIDGE_15G/bin&session/log-power-2025-08-04-155617.session,my_device_logs
+USER_BRIDGE_15G,2025-08-04,cloud_trust,5,1,USER_BRIDGE_15G/2025/08/4/log-power-2025-08-04-155617.session,my_device_logs
+USER_BRIDGE_15G,2025-08-04,evidence_pressure,1,152,USER_BRIDGE_15G/2025/08/4/Analytics-2025-08-04-070022.ips.ca.synced,my_device_logs
+USER_BRIDGE_15G,2025-08-04,evidence_pressure,2,59,退避フォルダ/USER_BRIDGE_15G/bin&session/log-power-2025-08-04-155617.session,my_device_logs
+USER_BRIDGE_15G,2025-08-04,evidence_pressure,3,59,USER_BRIDGE_15G/2025/08/4/log-power-2025-08-04-155617.session,my_device_logs
+USER_BRIDGE_15G,2025-08-04,evidence_pressure,4,10,USER_BRIDGE_15G/2025/08/4/LowBatteryLog-2025-08-04-191424.ips,my_device_logs
+USER_BRIDGE_15G,2025-08-04,evidence_pressure,5,7,USER_BRIDGE_15G/2025/08/4/ChatGPT-2025-08-04-190135.ips,my_device_logs
+USER_BRIDGE_15G,2025-08-04,lateral_trust,1,14,USER_BRIDGE_15G/2025/08/4/Analytics-2025-08-04-070022.ips.ca.synced,my_device_logs
+USER_BRIDGE_15G,2025-08-04,lateral_trust,2,4,USER_BRIDGE_15G/2025/08/4/JetsamEvent-2025-08-04-015220.ips,my_device_logs
+USER_BRIDGE_15G,2025-08-04,lateral_trust,3,3,USER_BRIDGE_15G/2025/08/4/ChatGPT-2025-08-04-190135.ips,my_device_logs
+USER_BRIDGE_15G,2025-08-04,lateral_trust,4,2,USER_BRIDGE_15G/2025/08/4/IntentsExtension-2025-08-04-221052.ips,my_device_logs
+USER_BRIDGE_15G,2025-08-04,lateral_trust,5,1,退避フォルダ/USER_BRIDGE_15G/bin&session/log-power-2025-08-04-155617.session,my_device_logs
+USER_BRIDGE_15G,2025-08-04,policy_restriction,1,1,USER_BRIDGE_15G/2025/08/4/Analytics-2025-08-04-070022.ips.ca.synced,my_device_logs
+USER_BRIDGE_15G,2025-08-04,policy_restriction,2,1,USER_BRIDGE_15G/2025/08/4/JetsamEvent-2025-08-04-015220.ips,my_device_logs
+USER_BRIDGE_15G,2025-08-04,telecom_wifi_proximity,1,102,退避フォルダ/USER_BRIDGE_15G/bin&session/log-power-2025-08-04-155617.session,my_device_logs
+USER_BRIDGE_15G,2025-08-04,telecom_wifi_proximity,2,102,USER_BRIDGE_15G/2025/08/4/log-power-2025-08-04-155617.session,my_device_logs
+USER_BRIDGE_15G,2025-08-04,telecom_wifi_proximity,3,40,USER_BRIDGE_15G/2025/08/4/Analytics-2025-08-04-070022.ips.ca.synced,my_device_logs
+USER_BRIDGE_15G,2025-08-04,telecom_wifi_proximity,4,32,USER_BRIDGE_15G/2025/08/4/LowBatteryLog-2025-08-04-191424.ips,my_device_logs
+USER_BRIDGE_15G,2025-08-04,telecom_wifi_proximity,5,7,USER_BRIDGE_15G/2025/08/4/ChatGPT-2025-08-04-190135.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,backup_manifest,1,6,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/JetsamEvent-2025-08-04-223000.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,backup_manifest,2,6,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/4/JetsamEvent-2025-08-04-223000.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,backup_manifest,3,6,USER_DEVICE_MINI2/2025/08/4/JetsamEvent-2025-08-04-223000.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,backup_manifest,4,1,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/SFA-CloudServices.json-2025-08-04-212540.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,backup_manifest,5,1,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/xp_amp_app_usage_dnu-2025-08-04-121849.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,cloud_trust,1,415,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/JetsamEvent-2025-08-04-223000.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,cloud_trust,2,415,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/4/JetsamEvent-2025-08-04-223000.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,cloud_trust,3,415,USER_DEVICE_MINI2/2025/08/4/JetsamEvent-2025-08-04-223000.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,cloud_trust,4,1,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/SFA-ckks.json-2025-08-04-212542.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,cloud_trust,5,1,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/SFA-pcs.json-2025-08-04-212543.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,evidence_pressure,1,15,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/JetsamEvent-2025-08-04-223000.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,evidence_pressure,2,15,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/4/JetsamEvent-2025-08-04-223000.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,evidence_pressure,3,15,USER_DEVICE_MINI2/2025/08/4/JetsamEvent-2025-08-04-223000.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,evidence_pressure,4,12,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/log-power-2025-08-04-043122.session,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,evidence_pressure,5,12,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/4/log-power-2025-08-04-043122.session,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,lateral_trust,1,7,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/JetsamEvent-2025-08-04-223000.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,lateral_trust,2,7,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/4/JetsamEvent-2025-08-04-223000.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,lateral_trust,3,7,USER_DEVICE_MINI2/2025/08/4/JetsamEvent-2025-08-04-223000.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,lateral_trust,4,1,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/xp_amp_app_usage_dnu-2025-08-04-000100.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,lateral_trust,5,1,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/xp_amp_app_usage_dnu-2025-08-04-121849.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,policy_restriction,1,7,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/JetsamEvent-2025-08-04-223000.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,policy_restriction,2,7,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/4/JetsamEvent-2025-08-04-223000.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,policy_restriction,3,7,USER_DEVICE_MINI2/2025/08/4/JetsamEvent-2025-08-04-223000.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,telecom_wifi_proximity,1,25,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/log-power-2025-08-04-043122.session,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,telecom_wifi_proximity,2,25,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/4/log-power-2025-08-04-043122.session,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,telecom_wifi_proximity,3,25,USER_DEVICE_MINI2/2025/08/4/log-power-2025-08-04-043122.session,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,telecom_wifi_proximity,4,12,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/JetsamEvent-2025-08-04-223000.ips,my_device_logs
+USER_DEVICE_MINI2,2025-08-04,telecom_wifi_proximity,5,12,退避フォルダ/USER_DEVICE_MINI2/2025/欠落あり08/4/JetsamEvent-2025-08-04-223000.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,backup_manifest,1,256,USER_ORIGIN_MINI1/2025/08/4/Analytics-2025-08-04-070008.ips.ca.synced,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,backup_manifest,2,235,USER_ORIGIN_MINI1/2025/08/4/cloudd.diskwrites_resource-2025-08-04-072507.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,backup_manifest,3,41,USER_ORIGIN_MINI1/2025/08/4/pkd.cpu_resource-2025-08-04-025342.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,backup_manifest,4,30,USER_ORIGIN_MINI1/2025/08/3/RTCReporting_messageLog_2025-08-04-02-51-55.txt,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,backup_manifest,5,30,USER_ORIGIN_MINI1/2025/08/4/RTCReporting_messageLog_2025-08-04-02-51-55.txt,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,cloud_trust,1,677,USER_ORIGIN_MINI1/2025/08/4/Analytics-2025-08-04-070008.ips.ca.synced,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,cloud_trust,2,379,USER_ORIGIN_MINI1/2025/08/4/JetsamEvent-2025-08-04-025627.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,cloud_trust,3,375,USER_ORIGIN_MINI1/2025/08/4/JetsamEvent-2025-08-04-025247.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,cloud_trust,4,353,USER_ORIGIN_MINI1/2025/08/4/JetsamEvent-2025-08-04-071301.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,cloud_trust,5,326,USER_ORIGIN_MINI1/2025/08/4/cloudd.diskwrites_resource-2025-08-04-072507.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,evidence_pressure,1,5097,USER_ORIGIN_MINI1/2025/08/4/Analytics-2025-08-04-070008.ips.ca.synced,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,evidence_pressure,2,29,USER_ORIGIN_MINI1/2025/08/4/ANECompilerService.cpu_resource-2025-08-04-050240.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,evidence_pressure,3,17,USER_ORIGIN_MINI1/2025/08/4/JetsamEvent-2025-08-04-025627.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,evidence_pressure,4,17,USER_ORIGIN_MINI1/2025/08/4/JetsamEvent-2025-08-04-030851.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,evidence_pressure,5,15,USER_ORIGIN_MINI1/2025/08/4/JetsamEvent-2025-08-04-025247.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,lateral_trust,1,756,USER_ORIGIN_MINI1/2025/08/4/Analytics-2025-08-04-070008.ips.ca.synced,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,lateral_trust,2,35,USER_ORIGIN_MINI1/2025/08/3/RTCReporting_messageLog_2025-08-04-02-51-55.txt,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,lateral_trust,3,35,USER_ORIGIN_MINI1/2025/08/4/RTCReporting_messageLog_2025-08-04-02-51-55.txt,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,lateral_trust,4,26,USER_ORIGIN_MINI1/2025/08/4/pkd.cpu_resource-2025-08-04-025342.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,lateral_trust,5,8,USER_ORIGIN_MINI1/2025/08/4/JetsamEvent-2025-08-04-025247.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,policy_restriction,1,22,USER_ORIGIN_MINI1/2025/08/4/Analytics-2025-08-04-070008.ips.ca.synced,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,policy_restriction,2,3,USER_ORIGIN_MINI1/2025/08/4/JetsamEvent-2025-08-04-025627.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,policy_restriction,3,3,USER_ORIGIN_MINI1/2025/08/4/JetsamEvent-2025-08-04-030851.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,policy_restriction,4,3,USER_ORIGIN_MINI1/2025/08/4/JetsamEvent-2025-08-04-071301.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,policy_restriction,5,1,USER_ORIGIN_MINI1/2025/08/4/JetsamEvent-2025-08-04-025247.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,telecom_wifi_proximity,1,4652,USER_ORIGIN_MINI1/2025/08/4/Analytics-2025-08-04-070008.ips.ca.synced,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,telecom_wifi_proximity,2,177,USER_ORIGIN_MINI1/2025/08/4/WiFiConnectionQuality-2025-08-04-130734.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,telecom_wifi_proximity,3,117,USER_ORIGIN_MINI1/2025/08/4/WiFiConnectionQuality-2025-08-04-131822.ips,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,telecom_wifi_proximity,4,10,USER_ORIGIN_MINI1/2025/08/3/RTCReporting_messageLog_2025-08-04-02-51-55.txt,my_device_logs
+USER_ORIGIN_MINI1,2025-08-04,telecom_wifi_proximity,5,10,USER_ORIGIN_MINI1/2025/08/4/RTCReporting_messageLog_2025-08-04-02-51-55.txt,my_device_logs
+USER_DEVICE_12G,2025-08-04,backup_manifest,1,490,USER_DEVICE_12G/2025/08/4/stacks-2025-08-04-151552.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,backup_manifest,2,398,USER_DEVICE_12G/2025/08/4/stacks-2025-08-04-211708.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,backup_manifest,3,9,USER_DEVICE_12G/2025/08/4/JetsamEvent-2025-08-04-061031.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,backup_manifest,4,1,USER_DEVICE_12G/2025/08/4/log-power-2025-08-04-212410.000.session,my_device_logs
+USER_DEVICE_12G,2025-08-04,backup_manifest,5,1,USER_DEVICE_12G/2025/08/4/SFA-ckks.json-2025-08-04-053216.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,cloud_trust,1,446,USER_DEVICE_12G/2025/08/4/JetsamEvent-2025-08-04-061031.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,cloud_trust,2,435,USER_DEVICE_12G/2025/08/4/stacks-2025-08-04-151552.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,cloud_trust,3,311,USER_DEVICE_12G/2025/08/4/stacks-2025-08-04-211708.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,cloud_trust,4,4,USER_DEVICE_12G/2025/08/4/signpost_reporter.cpu_resource-2025-08-04-212410.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,cloud_trust,5,1,USER_DEVICE_12G/2025/08/4/SFA-ckks.json-2025-08-04-053216.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,evidence_pressure,1,454,USER_DEVICE_12G/2025/08/4/stacks-2025-08-04-151552.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,evidence_pressure,2,330,USER_DEVICE_12G/2025/08/4/stacks-2025-08-04-211708.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,evidence_pressure,3,34,USER_DEVICE_12G/2025/08/4/log-power-2025-08-04-212410.000.session,my_device_logs
+USER_DEVICE_12G,2025-08-04,evidence_pressure,4,19,USER_DEVICE_12G/2025/08/4/JetsamEvent-2025-08-04-061031.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,evidence_pressure,5,3,USER_DEVICE_12G/2025/08/4/signpost_reporter.cpu_resource-2025-08-04-212410.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,lateral_trust,1,16,USER_DEVICE_12G/2025/08/4/stacks-2025-08-04-151552.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,lateral_trust,2,14,USER_DEVICE_12G/2025/08/4/stacks-2025-08-04-211708.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,lateral_trust,3,12,USER_DEVICE_12G/2025/08/4/JetsamEvent-2025-08-04-061031.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,lateral_trust,4,1,USER_DEVICE_12G/2025/08/4/log-power-2025-08-04-212410.000.session,my_device_logs
+USER_DEVICE_12G,2025-08-04,lateral_trust,5,1,USER_DEVICE_12G/2025/08/4/SFA-CloudServices.json-2025-08-04-053214.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,policy_restriction,1,8,USER_DEVICE_12G/2025/08/4/JetsamEvent-2025-08-04-061031.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,policy_restriction,2,7,USER_DEVICE_12G/2025/08/4/stacks-2025-08-04-151552.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,policy_restriction,3,4,USER_DEVICE_12G/2025/08/4/stacks-2025-08-04-211708.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,telecom_wifi_proximity,1,372,USER_DEVICE_12G/2025/08/4/stacks-2025-08-04-151552.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,telecom_wifi_proximity,2,256,USER_DEVICE_12G/2025/08/4/stacks-2025-08-04-211708.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,telecom_wifi_proximity,3,69,USER_DEVICE_12G/2025/08/4/log-power-2025-08-04-212410.000.session,my_device_logs
+USER_DEVICE_12G,2025-08-04,telecom_wifi_proximity,4,12,USER_DEVICE_12G/2025/08/4/JetsamEvent-2025-08-04-061031.ips,my_device_logs
+USER_DEVICE_12G,2025-08-04,telecom_wifi_proximity,5,9,USER_DEVICE_12G/2025/08/4/WiFiConnectionQuality-2025-08-04-131251.ips,my_device_logs
+EXT_UNCERTAIN_B,2025-08-04,backup_manifest,1,16,EXT_UNCERTAIN_B/08/4/Analytics-2025-08-04-070012.ips.ca.synced,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,backup_manifest,2,5,EXT_UNCERTAIN_B/08/4/JetsamEvent-2025-08-04-070645.ips,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,backup_manifest,3,5,EXT_UNCERTAIN_B/08/4/JetsamEvent-2025-08-04-071602.ips,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,backup_manifest,4,1,EXT_UNCERTAIN_B/08/4/log-power-2025-08-04-175845.session,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,cloud_trust,1,298,EXT_UNCERTAIN_B/08/4/JetsamEvent-2025-08-04-070645.ips,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,cloud_trust,2,284,EXT_UNCERTAIN_B/08/4/JetsamEvent-2025-08-04-071602.ips,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,cloud_trust,3,98,EXT_UNCERTAIN_B/08/4/Analytics-2025-08-04-070012.ips.ca.synced,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,cloud_trust,4,4,EXT_UNCERTAIN_B/08/4/duetexpertd.cpu_resource-2025-08-04-071620.ips,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,cloud_trust,5,3,EXT_UNCERTAIN_B/08/4/DASDelegateService.cpu_resource-2025-08-04-073546.ips,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,evidence_pressure,1,794,EXT_UNCERTAIN_B/08/4/Analytics-2025-08-04-070012.ips.ca.synced,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,evidence_pressure,2,24,EXT_UNCERTAIN_B/08/4/log-power-2025-08-04-175845.session,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,evidence_pressure,3,13,EXT_UNCERTAIN_B/08/4/JetsamEvent-2025-08-04-071602.ips,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,evidence_pressure,4,12,EXT_UNCERTAIN_B/08/4/JetsamEvent-2025-08-04-070645.ips,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,evidence_pressure,5,3,EXT_UNCERTAIN_B/08/4/duetexpertd.cpu_resource-2025-08-04-071620.ips,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,lateral_trust,1,52,EXT_UNCERTAIN_B/08/4/Analytics-2025-08-04-070012.ips.ca.synced,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,lateral_trust,2,7,EXT_UNCERTAIN_B/08/4/JetsamEvent-2025-08-04-070645.ips,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,lateral_trust,3,7,EXT_UNCERTAIN_B/08/4/JetsamEvent-2025-08-04-071602.ips,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,lateral_trust,4,1,EXT_UNCERTAIN_B/08/4/WiFiConnectionQuality-2025-08-04-113350.ips,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,lateral_trust,5,1,EXT_UNCERTAIN_B/08/4/WiFiConnectionQuality-2025-08-04-190201.ips,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,policy_restriction,1,7,EXT_UNCERTAIN_B/08/4/Analytics-2025-08-04-070012.ips.ca.synced,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,policy_restriction,2,1,EXT_UNCERTAIN_B/08/4/JetsamEvent-2025-08-04-070645.ips,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,policy_restriction,3,1,EXT_UNCERTAIN_B/08/4/JetsamEvent-2025-08-04-071602.ips,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,telecom_wifi_proximity,1,772,EXT_UNCERTAIN_B/08/4/Analytics-2025-08-04-070012.ips.ca.synced,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,telecom_wifi_proximity,2,343,EXT_UNCERTAIN_B/08/4/WiFiConnectionQuality-2025-08-04-190201.ips,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,telecom_wifi_proximity,3,271,EXT_UNCERTAIN_B/08/4/WiFiConnectionQuality-2025-08-04-194401.ips,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,telecom_wifi_proximity,4,215,EXT_UNCERTAIN_B/08/4/WiFiConnectionQuality-2025-08-04-113350.ips,friend_device_logs
+EXT_UNCERTAIN_B,2025-08-04,telecom_wifi_proximity,5,65,EXT_UNCERTAIN_B/08/4/log-power-2025-08-04-175845.session,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,backup_manifest,1,6746,EXT_NO_CONTACT_A/2025/08/4/RTCReporting_messageLog_2025-08-04-04-27-11.txt,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,backup_manifest,2,12,EXT_NO_CONTACT_A/2025/08/4/JetsamEvent-2025-08-04-072017.ips,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,backup_manifest,3,9,EXT_NO_CONTACT_A/2025/08/4/Analytics-2025-08-04-070126.ips.ca.synced,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,backup_manifest,4,5,EXT_NO_CONTACT_A/2025/08/4/SystemMemoryReset-2025-08-04-042628.ips,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,backup_manifest,5,1,EXT_NO_CONTACT_A/2025/08/4/log-power-2025-08-04-181637.session,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,cloud_trust,1,4587,EXT_NO_CONTACT_A/2025/08/4/RTCReporting_messageLog_2025-08-04-04-27-11.txt,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,cloud_trust,2,493,EXT_NO_CONTACT_A/2025/08/4/JetsamEvent-2025-08-04-072017.ips,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,cloud_trust,3,351,EXT_NO_CONTACT_A/2025/08/4/SystemMemoryReset-2025-08-04-042628.ips,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,cloud_trust,4,9,EXT_NO_CONTACT_A/2025/08/4/Analytics-2025-08-04-070126.ips.ca.synced,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,cloud_trust,5,2,EXT_NO_CONTACT_A/2025/08/4/signpost_reporter.cpu_resource-2025-08-04-043454.ips,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,evidence_pressure,1,5668,EXT_NO_CONTACT_A/2025/08/4/RTCReporting_messageLog_2025-08-04-04-27-11.txt,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,evidence_pressure,2,53,EXT_NO_CONTACT_A/2025/08/4/Analytics-2025-08-04-070126.ips.ca.synced,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,evidence_pressure,3,38,EXT_NO_CONTACT_A/2025/08/4/log-power-2025-08-04-181637.session,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,evidence_pressure,4,16,EXT_NO_CONTACT_A/2025/08/4/JetsamEvent-2025-08-04-072017.ips,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,evidence_pressure,5,12,EXT_NO_CONTACT_A/2025/08/4/SystemMemoryReset-2025-08-04-042628.ips,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,lateral_trust,1,12644,EXT_NO_CONTACT_A/2025/08/4/RTCReporting_messageLog_2025-08-04-04-27-11.txt,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,lateral_trust,2,13,EXT_NO_CONTACT_A/2025/08/4/JetsamEvent-2025-08-04-072017.ips,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,lateral_trust,3,8,EXT_NO_CONTACT_A/2025/08/4/SystemMemoryReset-2025-08-04-042628.ips,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,lateral_trust,4,4,EXT_NO_CONTACT_A/2025/08/4/Analytics-2025-08-04-070126.ips.ca.synced,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,lateral_trust,5,1,EXT_NO_CONTACT_A/2025/08/4/WiFiConnectionQuality-2025-08-04-204408.ips,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,policy_restriction,1,8,EXT_NO_CONTACT_A/2025/08/4/JetsamEvent-2025-08-04-072017.ips,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,policy_restriction,2,3,EXT_NO_CONTACT_A/2025/08/4/SystemMemoryReset-2025-08-04-042628.ips,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,policy_restriction,3,1,EXT_NO_CONTACT_A/2025/08/4/Analytics-2025-08-04-070126.ips.ca.synced,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,telecom_wifi_proximity,1,2568,EXT_NO_CONTACT_A/2025/08/4/RTCReporting_messageLog_2025-08-04-04-27-11.txt,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,telecom_wifi_proximity,2,133,EXT_NO_CONTACT_A/2025/08/4/WiFiConnectionQuality-2025-08-04-204408.ips,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,telecom_wifi_proximity,3,82,EXT_NO_CONTACT_A/2025/08/4/Analytics-2025-08-04-070126.ips.ca.synced,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,telecom_wifi_proximity,4,79,EXT_NO_CONTACT_A/2025/08/4/log-power-2025-08-04-181637.session,friend_device_logs
+EXT_NO_CONTACT_A,2025-08-04,telecom_wifi_proximity,5,12,EXT_NO_CONTACT_A/2025/08/4/JetsamEvent-2025-08-04-072017.ips,friend_device_logs
+EXT_CONTACT_D,2025-08-04,backup_manifest,1,9,Ha Thao/2025/08/4/Analytics-2025-08-04-070135.ips.ca.synced,friend_device_logs
+EXT_CONTACT_D,2025-08-04,backup_manifest,2,7,Ha Thao/2025/08/4/JetsamEvent-2025-08-04-091100.ips,friend_device_logs
+EXT_CONTACT_D,2025-08-04,backup_manifest,3,6,Ha Thao/2025/08/4/JetsamEvent-2025-08-04-180443.ips,friend_device_logs
+EXT_CONTACT_D,2025-08-04,backup_manifest,4,5,Ha Thao/2025/08/4/JetsamEvent-2025-08-04-185322.ips,friend_device_logs
+EXT_CONTACT_D,2025-08-04,backup_manifest,5,1,Ha Thao/2025/08/4/xp_amp_app_usage_dnu-2025-08-04-121506.ips,friend_device_logs
+EXT_CONTACT_D,2025-08-04,cloud_trust,1,504,Ha Thao/2025/08/4/JetsamEvent-2025-08-04-091100.ips,friend_device_logs
+EXT_CONTACT_D,2025-08-04,cloud_trust,2,463,Ha Thao/2025/08/4/JetsamEvent-2025-08-04-185322.ips,friend_device_logs
+EXT_CONTACT_D,2025-08-04,cloud_trust,3,426,Ha Thao/2025/08/4/JetsamEvent-2025-08-04-180443.ips,friend_device_logs
+EXT_CONTACT_D,2025-08-04,cloud_trust,4,14,Ha Thao/2025/08/4/Analytics-2025-08-04-070135.ips.ca.synced,friend_device_logs
+EXT_CONTACT_D,2025-08-04,evidence_pressure,1,305,Ha Thao/2025/08/4/Analytics-2025-08-04-070135.ips.ca.synced,friend_device_logs
+EXT_CONTACT_D,2025-08-04,evidence_pressure,2,107,Ha Thao/2025/08/4/log-power-2025-08-04-094431.session,friend_device_logs
+EXT_CONTACT_D,2025-08-04,evidence_pressure,3,107,Ha Thao/2025/08/4/log-power-2025-08-04-094854.session,friend_device_logs
+EXT_CONTACT_D,2025-08-04,evidence_pressure,4,20,Ha Thao/2025/08/4/JetsamEvent-2025-08-04-180443.ips,friend_device_logs
+EXT_CONTACT_D,2025-08-04,evidence_pressure,5,19,Ha Thao/2025/08/4/JetsamEvent-2025-08-04-185322.ips,friend_device_logs
+EXT_CONTACT_D,2025-08-04,lateral_trust,1,11,Ha Thao/2025/08/4/Analytics-2025-08-04-070135.ips.ca.synced,friend_device_logs
+EXT_CONTACT_D,2025-08-04,lateral_trust,2,10,Ha Thao/2025/08/4/JetsamEvent-2025-08-04-091100.ips,friend_device_logs
+EXT_CONTACT_D,2025-08-04,lateral_trust,3,9,Ha Thao/2025/08/4/JetsamEvent-2025-08-04-180443.ips,friend_device_logs
+EXT_CONTACT_D,2025-08-04,lateral_trust,4,8,Ha Thao/2025/08/4/JetsamEvent-2025-08-04-185322.ips,friend_device_logs
+EXT_CONTACT_D,2025-08-04,lateral_trust,5,1,Ha Thao/2025/08/4/log-power-2025-08-04-094431.session,friend_device_logs
+EXT_CONTACT_D,2025-08-04,policy_restriction,1,5,Ha Thao/2025/08/4/Analytics-2025-08-04-070135.ips.ca.synced,friend_device_logs
+EXT_CONTACT_D,2025-08-04,policy_restriction,2,4,Ha Thao/2025/08/4/JetsamEvent-2025-08-04-185322.ips,friend_device_logs
+EXT_CONTACT_D,2025-08-04,policy_restriction,3,3,Ha Thao/2025/08/4/JetsamEvent-2025-08-04-091100.ips,friend_device_logs
+EXT_CONTACT_D,2025-08-04,policy_restriction,4,1,Ha Thao/2025/08/4/JetsamEvent-2025-08-04-180443.ips,friend_device_logs
+EXT_CONTACT_D,2025-08-04,telecom_wifi_proximity,1,77,Ha Thao/2025/08/4/Analytics-2025-08-04-070135.ips.ca.synced,friend_device_logs
+EXT_CONTACT_D,2025-08-04,telecom_wifi_proximity,2,66,Ha Thao/2025/08/4/log-power-2025-08-04-094431.session,friend_device_logs
+EXT_CONTACT_D,2025-08-04,telecom_wifi_proximity,3,66,Ha Thao/2025/08/4/log-power-2025-08-04-094854.session,friend_device_logs
+EXT_CONTACT_D,2025-08-04,telecom_wifi_proximity,4,25,Ha Thao/2025/08/4/WiFiConnectionQuality-2025-08-04-122033.ips,friend_device_logs
+EXT_CONTACT_D,2025-08-04,telecom_wifi_proximity,5,8,Ha Thao/2025/08/4/JetsamEvent-2025-08-04-091100.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,backup_manifest,1,12,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-231559.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,backup_manifest,2,12,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-231854.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,backup_manifest,3,12,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-232011.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,backup_manifest,4,12,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-232035.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,backup_manifest,5,12,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-232059.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,cloud_trust,1,414,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-231559.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,cloud_trust,2,413,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-232035.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,cloud_trust,3,413,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-232059.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,cloud_trust,4,413,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-232504.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,cloud_trust,5,413,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-232755.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,evidence_pressure,1,15,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-182357.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,evidence_pressure,2,15,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-211854.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,evidence_pressure,3,15,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-231559.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,evidence_pressure,4,15,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-232035.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,evidence_pressure,5,15,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-232059.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,lateral_trust,1,70,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/UsageTrackingAgent.cpu_resource-2025-08-04-210714.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,lateral_trust,2,10,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-231559.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,lateral_trust,3,10,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-231854.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,lateral_trust,4,10,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-232011.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,lateral_trust,5,10,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-232035.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,policy_restriction,1,70,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/UsageTrackingAgent.cpu_resource-2025-08-04-210714.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,policy_restriction,2,6,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-231559.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,policy_restriction,3,6,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-231854.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,policy_restriction,4,6,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-232011.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,policy_restriction,5,6,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-232035.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,telecom_wifi_proximity,1,9,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-231559.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,telecom_wifi_proximity,2,9,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-231854.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,telecom_wifi_proximity,3,9,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-232011.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,telecom_wifi_proximity,4,9,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-232035.ips,friend_device_logs
+EXT_CONTACT_E_12PROMAX,2025-08-04,telecom_wifi_proximity,5,9,EXT_CONTACT_E/2025/iPhone12 Pro Max/08/4/JetsamEvent-2025-08-04-232059.ips,friend_device_logs
+EXT_CONTACT_E_6SPLUS,2025-08-04,backup_manifest,1,500,EXT_CONTACT_E/2025/iPhone6s Plus/08/4/CoreTime-2025-08-04-070820.ips.synced,friend_device_logs
+EXT_CONTACT_E_6SPLUS,2025-08-04,backup_manifest,2,23,EXT_CONTACT_E/2025/iPhone6s Plus/08/4/log-aggregated-2025-08-04-073425.ips,friend_device_logs
+EXT_CONTACT_E_6SPLUS,2025-08-04,backup_manifest,3,7,EXT_CONTACT_E/2025/iPhone6s Plus/08/4/stacks+routined-2025-08-04-010946.ips,friend_device_logs
+EXT_CONTACT_E_6SPLUS,2025-08-04,backup_manifest,4,6,EXT_CONTACT_E/2025/iPhone6s Plus/08/4/JetsamEvent-2025-08-04-123035.ips,friend_device_logs
+EXT_CONTACT_E_6SPLUS,2025-08-04,cloud_trust,1,11,EXT_CONTACT_E/2025/iPhone6s Plus/08/4/log-aggregated-2025-08-04-073425.ips,friend_device_logs
+EXT_CONTACT_E_6SPLUS,2025-08-04,cloud_trust,2,8,EXT_CONTACT_E/2025/iPhone6s Plus/08/4/JetsamEvent-2025-08-04-123035.ips,friend_device_logs
+EXT_CONTACT_E_6SPLUS,2025-08-04,cloud_trust,3,8,EXT_CONTACT_E/2025/iPhone6s Plus/08/4/stacks+routined-2025-08-04-010946.ips,friend_device_logs
+EXT_CONTACT_E_6SPLUS,2025-08-04,evidence_pressure,1,231,EXT_CONTACT_E/2025/iPhone6s Plus/08/4/stacks+routined-2025-08-04-010946.ips,friend_device_logs
+EXT_CONTACT_E_6SPLUS,2025-08-04,evidence_pressure,2,17,EXT_CONTACT_E/2025/iPhone6s Plus/08/4/log-aggregated-2025-08-04-073425.ips,friend_device_logs
+EXT_CONTACT_E_6SPLUS,2025-08-04,evidence_pressure,3,13,EXT_CONTACT_E/2025/iPhone6s Plus/08/4/JetsamEvent-2025-08-04-123035.ips,friend_device_logs
+EXT_CONTACT_E_6SPLUS,2025-08-04,evidence_pressure,4,3,EXT_CONTACT_E/2025/iPhone6s Plus/08/4/Analytics-2025-08-04-073410.ips.ca.synced,friend_device_logs
+EXT_CONTACT_E_6SPLUS,2025-08-04,lateral_trust,1,24,EXT_CONTACT_E/2025/iPhone6s Plus/08/4/stacks+routined-2025-08-04-010946.ips,friend_device_logs
+EXT_CONTACT_E_6SPLUS,2025-08-04,lateral_trust,2,3,EXT_CONTACT_E/2025/iPhone6s Plus/08/4/JetsamEvent-2025-08-04-123035.ips,friend_device_logs
+EXT_CONTACT_E_6SPLUS,2025-08-04,lateral_trust,3,2,EXT_CONTACT_E/2025/iPhone6s Plus/08/4/log-aggregated-2025-08-04-073425.ips,friend_device_logs
+EXT_CONTACT_E_6SPLUS,2025-08-04,policy_restriction,1,10,EXT_CONTACT_E/2025/iPhone6s Plus/08/4/log-aggregated-2025-08-04-073425.ips,friend_device_logs
+EXT_CONTACT_E_6SPLUS,2025-08-04,telecom_wifi_proximity,1,79,EXT_CONTACT_E/2025/iPhone6s Plus/08/4/log-aggregated-2025-08-04-073425.ips,friend_device_logs
+EXT_CONTACT_E_6SPLUS,2025-08-04,telecom_wifi_proximity,2,21,EXT_CONTACT_E/2025/iPhone6s Plus/08/4/stacks+routined-2025-08-04-010946.ips,friend_device_logs
+EXT_CONTACT_E_6SPLUS,2025-08-04,telecom_wifi_proximity,3,3,EXT_CONTACT_E/2025/iPhone6s Plus/08/4/JetsamEvent-2025-08-04-123035.ips,friend_device_logs
+USER_DEVICE_11PRO,2025-08-04,backup_manifest,1,467,USER_DEVICE_11PRO/2025/08/4/stacks-2025-08-04-135726.ips,my_device_logs
+USER_DEVICE_11PRO,2025-08-04,backup_manifest,2,444,USER_DEVICE_11PRO/2025/08/4/stacks-2025-08-04-042949.ips,my_device_logs
+USER_DEVICE_11PRO,2025-08-04,cloud_trust,1,414,USER_DEVICE_11PRO/2025/08/4/stacks-2025-08-04-135726.ips,my_device_logs
+USER_DEVICE_11PRO,2025-08-04,cloud_trust,2,391,USER_DEVICE_11PRO/2025/08/4/stacks-2025-08-04-042949.ips,my_device_logs
+USER_DEVICE_11PRO,2025-08-04,cloud_trust,3,27,USER_DEVICE_11PRO/2025/08/4/knowledgeconstructiond.cpu_resource-2025-08-04-083456.ips,my_device_logs
+USER_DEVICE_11PRO,2025-08-04,evidence_pressure,1,432,USER_DEVICE_11PRO/2025/08/4/stacks-2025-08-04-135726.ips,my_device_logs
+USER_DEVICE_11PRO,2025-08-04,evidence_pressure,2,409,USER_DEVICE_11PRO/2025/08/4/stacks-2025-08-04-042949.ips,my_device_logs
+USER_DEVICE_11PRO,2025-08-04,evidence_pressure,3,31,USER_DEVICE_11PRO/2025/08/4/log-power-2025-08-04-023140.session,my_device_logs
+USER_DEVICE_11PRO,2025-08-04,evidence_pressure,4,3,USER_DEVICE_11PRO/2025/08/4/knowledgeconstructiond.cpu_resource-2025-08-04-083456.ips,my_device_logs
+USER_DEVICE_11PRO,2025-08-04,evidence_pressure,5,2,USER_DEVICE_11PRO/2025/08/4/xp_amp_app_usage_dnu-2025-08-04-122746.ips,my_device_logs
+USER_DEVICE_11PRO,2025-08-04,lateral_trust,1,15,USER_DEVICE_11PRO/2025/08/4/stacks-2025-08-04-042949.ips,my_device_logs
+USER_DEVICE_11PRO,2025-08-04,lateral_trust,2,15,USER_DEVICE_11PRO/2025/08/4/stacks-2025-08-04-135726.ips,my_device_logs
+USER_DEVICE_11PRO,2025-08-04,lateral_trust,3,1,USER_DEVICE_11PRO/2025/08/4/xp_amp_app_usage_dnu-2025-08-04-122746.ips,my_device_logs
+USER_DEVICE_11PRO,2025-08-04,lateral_trust,4,1,USER_DEVICE_11PRO/2025/08/4/xp_amp_app_usage_dnu-2025-08-04-003753.ips,my_device_logs
+USER_DEVICE_11PRO,2025-08-04,policy_restriction,1,5,USER_DEVICE_11PRO/2025/08/4/stacks-2025-08-04-042949.ips,my_device_logs
+USER_DEVICE_11PRO,2025-08-04,policy_restriction,2,5,USER_DEVICE_11PRO/2025/08/4/stacks-2025-08-04-135726.ips,my_device_logs
+USER_DEVICE_11PRO,2025-08-04,telecom_wifi_proximity,1,334,USER_DEVICE_11PRO/2025/08/4/stacks-2025-08-04-135726.ips,my_device_logs
+USER_DEVICE_11PRO,2025-08-04,telecom_wifi_proximity,2,307,USER_DEVICE_11PRO/2025/08/4/stacks-2025-08-04-042949.ips,my_device_logs
+USER_DEVICE_11PRO,2025-08-04,telecom_wifi_proximity,3,40,USER_DEVICE_11PRO/2025/08/4/log-power-2025-08-04-023140.session,my_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,backup_manifest,1,54,EXT_REMOTE_GEO_C/2025/08/4/log-aggregated-2025-08-04-070318.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,backup_manifest,2,8,EXT_REMOTE_GEO_C/2025/08/4/Analytics-Daily-2025-08-04-070320.0004.ips.ca.synced,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,backup_manifest,3,6,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-060452.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,backup_manifest,4,6,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-093830.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,backup_manifest,5,6,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-191109.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,cloud_trust,1,13,EXT_REMOTE_GEO_C/2025/08/4/Analytics-Daily-2025-08-04-070320.0004.ips.ca.synced,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,cloud_trust,2,12,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-060452.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,cloud_trust,3,12,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-093830.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,cloud_trust,4,12,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-191109.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,cloud_trust,5,12,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-191858.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,evidence_pressure,1,103,EXT_REMOTE_GEO_C/2025/08/4/Analytics-Daily-2025-08-04-070320.0004.ips.ca.synced,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,evidence_pressure,2,23,EXT_REMOTE_GEO_C/2025/08/4/log-power-2025-08-04-175347.session,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,evidence_pressure,3,15,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-191109.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,evidence_pressure,4,15,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-191858.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,evidence_pressure,5,15,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-230727.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,lateral_trust,1,7,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-060452.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,lateral_trust,2,7,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-093830.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,lateral_trust,3,7,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-191109.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,lateral_trust,4,7,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-191858.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,lateral_trust,5,7,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-230727.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,policy_restriction,1,5,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-191109.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,policy_restriction,2,5,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-191858.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,policy_restriction,3,5,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-230727.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,policy_restriction,4,5,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-193505.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,policy_restriction,5,4,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-060452.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,telecom_wifi_proximity,1,35,EXT_REMOTE_GEO_C/2025/08/4/log-power-2025-08-04-175347.session,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,telecom_wifi_proximity,2,9,EXT_REMOTE_GEO_C/2025/08/4/log-aggregated-2025-08-04-070318.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,telecom_wifi_proximity,3,7,EXT_REMOTE_GEO_C/2025/08/4/Analytics-Daily-2025-08-04-070320.0004.ips.ca.synced,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,telecom_wifi_proximity,4,6,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-060452.ips,friend_device_logs
+EXT_REMOTE_GEO_C,2025-08-04,telecom_wifi_proximity,5,6,EXT_REMOTE_GEO_C/2025/08/4/JetsamEvent-2025-08-04-093830.ips,friend_device_logs

@@ -1,0 +1,57 @@
+{
+  "script": "42b_triald_direct_only_source_time_review.py",
+  "status": "OK",
+  "purpose": "C2025AUG / 2025-08-04 direct triald source-time review",
+  "input_39b_dir": "[RESULT_ROOT]\\39b_rawlog_cluster_trial_audit",
+  "input_40b_dir": "[RESULT_ROOT]\\40b_c2025aug_39a39b_cross_strict",
+  "out_dir": "[RESULT_ROOT]\\42b_triald_direct_only_source_time_review",
+  "focus_start": "2025-08-01",
+  "focus_end": "2025-08-10",
+  "core_date": "2025-08-04",
+  "direct_axis_rows_seen": 327,
+  "dedup_direct_event_count_window": 78,
+  "dedup_direct_event_count_0804": 8,
+  "proactive_triald_direct_event_count_0804": 7,
+  "triald_cpu_resource_direct_event_count_0804": 1,
+  "devices_with_direct_triald_0804": [
+    "USER_ORIGIN_MINI1",
+    "USER_BRIDGE_15G",
+    "USER_DEVICE_12G",
+    "USER_DEVICE_MINI2",
+    "USER_DEVICE_11PRO",
+    "EXT_UNCERTAIN_B",
+    "EXT_REMOTE_GEO_C",
+    "EXT_CONTACT_D"
+  ],
+  "devices_with_proactive_triald_0804": [
+    "USER_ORIGIN_MINI1",
+    "USER_BRIDGE_15G",
+    "USER_DEVICE_12G",
+    "USER_DEVICE_MINI2",
+    "USER_DEVICE_11PRO",
+    "EXT_UNCERTAIN_B",
+    "EXT_CONTACT_D"
+  ],
+  "core_devices_without_direct_triald_0804": [
+    "EXT_NO_CONTACT_A",
+    "EXT_CONTACT_E_12PROMAX",
+    "EXT_CONTACT_E_6SPLUS"
+  ],
+  "verdict_counts": {
+    "A_CORE_WITH_PROACTIVE_TRIALD_DIRECT": 7,
+    "NO_TRIALD_DIRECT_0804": 2,
+    "C_CORE_NO_TRIALD_DIRECT_0804": 3,
+    "B_CORE_WITH_TRIALD_CPU_DIRECT_ONLY": 1
+  },
+  "duplicate_event_count": 19,
+  "final_verdict": "DIRECT_TRIALD_OVERLAP_SUPPORTED_BUT_NOT_CAUSAL_PROOF",
+  "elapsed_sec": 0.506,
+  "non_claims": [
+    "Trial悪用確定ではない",
+    "A/B攻撃確定ではない",
+    "Apple Trial原因確定ではない",
+    "Remote command確定ではない",
+    "hidden MDM確定ではない",
+    "攻撃者特定ではない"
+  ]
+}

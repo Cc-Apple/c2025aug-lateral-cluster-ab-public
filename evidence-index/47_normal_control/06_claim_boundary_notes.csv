@@ -1,0 +1,8 @@
+﻿item,value
+can_say,Available local artifact summaries reduce the generic normal-iOS explanation for C2025AUG.
+can_say,Cluster/review devices show multi-layer overlap across 40b/43/44/45/46.
+can_say,Available control/low-exposure labels do not reproduce the same density in this input set.
+cannot_say,This is not population-level clean-control proof.
+cannot_say,"This does not prove attack intent, Apple involvement, hidden MDM, server-side trust graph, Trial abuse, or remote command."
+limitation,Control set is limited; USER_ORIGIN_MINI1G or friend clean control data may not be present in these C2025AUG summary inputs.
+limitation,CONTROL_OR_GENERIC_EXTERNAL/UNKNOWN generic labels are excluded from positive decision making.

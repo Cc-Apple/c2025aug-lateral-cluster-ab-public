@@ -1,0 +1,5 @@
+﻿input,path,exists
+39b_file_axis_counts,C:\Users\Administrator\Desktop\Result\39b_rawlog_cluster_trial_audit\39b_file_axis_counts.csv,True
+39b_manifest_inventory,C:\Users\Administrator\Desktop\Result\39b_rawlog_cluster_trial_audit\39b_manifest_inventory.csv,True
+40b_core_cross,C:\Users\Administrator\Desktop\Result\40b_c2025aug_39a39b_cross_strict\04_2025_0804_core_cross.csv,True
+43_trust_graph_matrix,C:\Users\Administrator\Desktop\Result\43_trust_graph_lineage_review\01_trust_graph_0804_device_matrix.csv,True
