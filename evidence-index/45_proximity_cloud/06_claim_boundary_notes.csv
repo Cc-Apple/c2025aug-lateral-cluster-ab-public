@@ -1,7 +1,0 @@
-﻿note_type,content
-CAN_SAY,C2025AUG core日に、proximity系artifactとtrust/backup overlapを分離して評価できる。
-CAN_SAY,EXT_NO_CONTACT_A / EXT_REMOTE_GEO_C / EXT_UNCERTAIN_B は、単純な物理接触説明では苦しい側として優先review対象に残る。
-CAN_SAY,EXT_CONTACT_D / EXT_CONTACT_E系は既知接触があるため、物理説明を完全排除せず、trust/backup重なりのsupport扱いにする。
-CANNOT_SAY,cloud/trust graph伝播、Family Sharing悪用、trusted device追加、Apple server-side状態を直接証明したとは言わない。
-CANNOT_SAY,BSSID/RSSI同一、物理近接、攻撃者接近をこのscriptだけで断定しない。
-NEXT,46 Evidence Preservation / Suppression Modelへ進み、保存妨害構造を見る。

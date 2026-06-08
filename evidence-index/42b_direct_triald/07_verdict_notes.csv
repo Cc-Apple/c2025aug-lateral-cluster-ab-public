@@ -1,7 +1,0 @@
-﻿項目,内容
-採用判定,42bは採用。C2025AUG core日にはtriald direct系ファイルが複数端末で存在する。
-強い点,proactive_event_tracker-com_apple_Trial-com_apple_triald が USER_ORIGIN_MINI1 / USER_BRIDGE_15G / USER_DEVICE_12G / USER_DEVICE_MINI2 / USER_DEVICE_11PRO / EXT_UNCERTAIN_B / EXT_CONTACT_D に出る。
-EXT_REMOTE_GEO_C,EXT_REMOTE_GEO_Cはproactive_event_trackerではなく triald.cpu_resource。direct triald補助だが、proactive directとは分ける。
-EXT_NO_CONTACT_A / EXT_CONTACT_E,40b core / 42 broad support はあるが、42b direct trialdでは出ない。非direct Trial supportまたは別seam由来として扱う。
-禁止表現,Trial悪用確定 / A-B攻撃確定 / Apple Trial原因確定 / Remote command確定とは言わない。
-次段階,次は43 Trust Graph Lineage、または42cでdirect trialdファイルの中身サンプルをraw_marker_hitsから限定抽出する。

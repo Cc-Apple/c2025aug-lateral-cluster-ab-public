@@ -1,6 +1,0 @@
-﻿項目,内容
-採用判定,Trial/A-B/cohortはC2025AUG core日に広く重なる。ただし攻撃基盤とは断定しない。cohort差分・発火条件の説明変数として採用。
-強い点,USER_ORIGIN_MINI1はraw+csvかつtriald_directがあり、origin core上でTrial overlapが強い。複数外部端末にもraw trial_abが存在。
-弱い点,trial_ab軸にはAnalytics/log-power内のapp_cohortやbeta等の汎用語も入る。Trial悪用・Apple Trial原因・A/B攻撃確定とは言わない。
-EXT_NO_CONTACT_A,raw-only coreとして残るが、trial_abは小さい。41同様にraw-only重要点であり単独決定打ではない。
-次段階,43ではTrust Graph Lineage、または42bでtriald_directファイルだけに絞った時刻順source reviewを行う。

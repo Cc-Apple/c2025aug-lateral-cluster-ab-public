@@ -1,5 +1,0 @@
-﻿bucket,device_count,avg_layer_count_6,avg_bounded_score,max_bounded_score,pattern_or_control_fail_count,devices
-control_candidates,1,0.0,0.0,0.0,0,LOW_EXPOSURE_IPAD
-external_review_devices,6,5.167,165.162,193.233,6,EXT_REMOTE_GEO_C;EXT_NO_CONTACT_A;EXT_UNCERTAIN_B;EXT_CONTACT_D;EXT_CONTACT_E_12PROMAX;EXT_CONTACT_E_6SPLUS
-generic_excluded,1,0.0,0.0,0.0,0,CONTROL_OR_GENERIC_EXTERNAL
-user_cluster_devices,5,5.6,184.8,211.447,5,USER_ORIGIN_MINI1;USER_DEVICE_12G;USER_DEVICE_11PRO;USER_DEVICE_MINI2;USER_BRIDGE_15G

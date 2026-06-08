@@ -1,5 +1,0 @@
-﻿順番,次作業,内容
-1,48結果確認,出力ZIPを確認し、40b〜47の統合数値が期待通りか見る。
-2,提出用要約化,Final Sealを人間用 / 機械用 / GitHub README差分へ分ける。
-3,49以降の条件,48で未解決が出た場合のみ追加。通常はこの系統を一度封印。
-4,次系統,必要ならTrust Graph Lineageの深掘り、Backup/Manifest InheritanceのSAO接続、またはDFRWS/GitHub反映へ進む。

@@ -1,5 +1,0 @@
-﻿level,item,detail
-ADOPT,44 result,Backup/Manifest inheritance shadow can be used as local artifact support.
-BOUNDARY,not proof,"This does not prove backup poisoning, restore inheritance, Apple server-side state, or attack attribution."
-CAUTION,RTC/stacks bias,"Some backup_manifest hits can be concentrated in RTCReporting/stacks/CoreTime/Jetsam. Treat as shadow support, not direct Manifest.db proof."
-NEXT,45,Proximity vs Cloud Separation is the natural next step after Backup/Manifest inheritance shadow.
